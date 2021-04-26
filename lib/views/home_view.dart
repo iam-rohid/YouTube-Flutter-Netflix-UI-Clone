@@ -305,49 +305,49 @@ class _HomeViewState extends State<HomeView> {
           child: Row(
             children: [
               CWMovieCard(
-                image: AssetImage("assets/images/movies/movie3.jpg"),
-              ),
-              SizedBox(
-                width: 10,
-              ),
-              CWMovieCard(
-                image: AssetImage("assets/images/movies/movie19.jpg"),
-              ),
-              SizedBox(
-                width: 10,
-              ),
-              CWMovieCard(
-                image: AssetImage("assets/images/movies/movie17.jpg"),
-              ),
-              SizedBox(
-                width: 10,
-              ),
-              CWMovieCard(
-                image: AssetImage("assets/images/movies/movie20.jpg"),
-              ),
-              SizedBox(
-                width: 10,
-              ),
-              CWMovieCard(
-                image: AssetImage("assets/images/movies/movie14.jpg"),
-              ),
-              SizedBox(
-                width: 10,
-              ),
-              CWMovieCard(
-                image: AssetImage("assets/images/movies/movie10.jpg"),
-              ),
-              SizedBox(
-                width: 10,
-              ),
-              CWMovieCard(
                 image: AssetImage("assets/images/movies/movie6.jpg"),
               ),
               SizedBox(
                 width: 10,
               ),
               CWMovieCard(
-                image: AssetImage("assets/images/movies/movie8.jpg"),
+                image: AssetImage("assets/images/movies/movie9.jpg"),
+              ),
+              SizedBox(
+                width: 10,
+              ),
+              CWMovieCard(
+                image: AssetImage("assets/images/movies/movie4.jpg"),
+              ),
+              SizedBox(
+                width: 10,
+              ),
+              CWMovieCard(
+                image: AssetImage("assets/images/movies/movie1.jpg"),
+              ),
+              SizedBox(
+                width: 10,
+              ),
+              CWMovieCard(
+                image: AssetImage("assets/images/movies/movie3.jpg"),
+              ),
+              SizedBox(
+                width: 10,
+              ),
+              CWMovieCard(
+                image: AssetImage("assets/images/movies/movie11.jpg"),
+              ),
+              SizedBox(
+                width: 10,
+              ),
+              CWMovieCard(
+                image: AssetImage("assets/images/movies/movie18.jpg"),
+              ),
+              SizedBox(
+                width: 10,
+              ),
+              CWMovieCard(
+                image: AssetImage("assets/images/movies/movie20.jpg"),
               ),
             ],
           ),

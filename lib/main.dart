@@ -22,6 +22,7 @@ class _AppState extends State<App> {
         bottomNavigationBarTheme: BottomNavigationBarThemeData(
           backgroundColor: Colors.black,
           selectedItemColor: Colors.white,
+          unselectedItemColor: Colors.white38,
         ),
       ),
       debugShowCheckedModeBanner: false,
